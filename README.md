@@ -12,13 +12,13 @@ Só dar uma olhadinha aí :smile:.
 - ```transform:translate();```
 
 ##  Dia 02 ✔️
-- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%201)
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%202)
 ### Foi usado:
 - ```transform: rotatate(); ```
 - ```box-shadow; ```
 
 ##  Dia 03 ✔️
-- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%201)
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%203)
 ### Foi usado:
 - ```animation; ```
 - ```position; ```
