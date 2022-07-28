@@ -16,3 +16,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```transform: rotatate(); ```
 - ```box-shadow; ```
+
+##  Dia 03 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%201)
+### Foi usado:
+- ```animation; ```
+- ```position; ```
