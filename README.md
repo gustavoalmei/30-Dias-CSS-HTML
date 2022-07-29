@@ -22,3 +22,11 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```animation; ```
 - ```position; ```
+
+##  Dia 04 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%204)
+### Foi usado:
+- ```transform: rotatate(); ```
+- ```box-shadow; ```
+- ```transform:skew(); ```
+- ```transition; ```

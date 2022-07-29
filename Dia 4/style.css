@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #313131;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  width: 30rem;
+}
+
+.text{
+  padding: .85rem 1.5rem;
+  color: white;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 5rem;
+  box-shadow: inset 0 0 0 .8rem #fff;
+
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.text::after, .text::before{
+  content: "";
+  width: 2rem;
+  height: .8rem;
+  background-color: #313131;
+
+  position: absolute;
+
+  transform: skew(70deg);
+  z-index: 0;
+  transition: left 250ms linear;
+}
+
+.text::after {
+  left: 80%;
+  bottom: 0;
+}
+
+.text::before{
+  left: 20%;
+  top: 0;
+}
+
+.text:hover::after{
+  left: 20%;
+}
+
+.text:hover::before{
+  left: 80%;
+}
