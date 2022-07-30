@@ -30,3 +30,9 @@ Só dar uma olhadinha aí :smile:.
 - ```box-shadow; ```
 - ```transform:skew(); ```
 - ```transition; ```
+
+##  Dia 05 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%205)
+### Foi usado:
+- ```Animation; ```
+- ```box-shadow; ```
