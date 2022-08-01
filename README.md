@@ -42,3 +42,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```Animation; ```
 - ```box-shadow; ```
+
+##  Dia 07 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%207)
+### Foi usado:
+- ```Animation; ```
+- ```nth-child; ```
