@@ -48,3 +48,8 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```Animation; ```
 - ```nth-child; ```
+
+##  Dia 08 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%208)
+### Foi usado:
+- ```Animation; ```
