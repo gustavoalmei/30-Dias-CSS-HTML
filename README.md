@@ -53,3 +53,10 @@ Só dar uma olhadinha aí :smile:.
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%208)
 ### Foi usado:
 - ```Animation; ```
+
+##  Dia 09 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%209)
+### Foi usado:
+- ```Animation; ```
+- ```transform: rotate(); ```
+- ```transform-origin; ```
