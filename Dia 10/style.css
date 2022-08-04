@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #313131;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+
+}
+
+.text{
+  font-size: 10rem;
+  font-family: 'Goldman', cursive;
+  color: #fff;
+
+  position: relative;
+}
+
+.text::after{
+  content: "🎮";
+  width: 15rem;
+  height: 10rem;
+  line-height: 11rem;
+  
+  position: absolute;
+  top: 5px;
+  animation: change 5s ease infinite;
+}
+
+@keyframes change {
+  0%{content: "🎮";}
+  25%{content: "🍿";}
+  50%{content: "🖥️";}
+  75%{content: "🎧";}
+  100%{content: "🍔";}
+}
