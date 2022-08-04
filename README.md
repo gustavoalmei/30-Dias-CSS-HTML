@@ -62,7 +62,7 @@ Só dar uma olhadinha aí :smile:.
 - ```transform-origin; ```
 
 ##  Dia 10 ✔️
-- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%210)
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2010)
 ### Foi usado:
 - ```Animation; ```
 - ```::after ```
