@@ -70,9 +70,29 @@ Só dar uma olhadinha aí :smile:.
 ##  Dia 11 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2011)
 ### Foi usado:
-- ```Animation; ```
 - ```::after ```
-- ```overflow ```
-- ```z-index```
+- ```hover```
 - ```position```
 - ```transition```
+
+##  Dia 12 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2012)
+### Foi usado:
+- ```position```
+- ```hover; ```
+- ```::after ```
+- ```transition```
+- ```transform```
+
+##  Dia 13 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2013)
+### Foi usado:
+- ```animation```
+- ```transform:translate```
+- ```nth-child; ```
+
+##  Dia 14 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2014)
+### Foi usado:
+- ```background-image; ```
+- ```animation```
