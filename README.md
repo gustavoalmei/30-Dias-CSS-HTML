@@ -96,3 +96,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```background-image; ```
 - ```animation```
+
+##  Dia 15 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2015)
+### Foi usado:
+- ```box-shadown; ```
+- ```animation```
