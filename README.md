@@ -102,3 +102,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```box-shadown; ```
 - ```animation```
+
+##  Dia 16 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2016)
+### Foi usado:
+- ```display:flex; ```
+- ```transition```
