@@ -65,46 +65,52 @@ Só dar uma olhadinha aí :smile:.
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2010)
 ### Foi usado:
 - ```Animation; ```
-- ```::after ```
+- ```::after; ```
 
 ##  Dia 11 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2011)
 ### Foi usado:
-- ```::after ```
-- ```hover```
-- ```position```
-- ```transition```
+- ```::after;```
+- ```hover;```
+- ```position;```
+- ```transition;```
 
 ##  Dia 12 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2012)
 ### Foi usado:
-- ```position```
+- ```position;```
 - ```hover; ```
-- ```::after ```
-- ```transition```
-- ```transform```
+- ```::after;```
+- ```transition;```
+- ```transform;```
 
 ##  Dia 13 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2013)
 ### Foi usado:
-- ```animation```
-- ```transform:translate```
+- ```animation;```
+- ```transform:translate;```
 - ```nth-child; ```
 
 ##  Dia 14 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2014)
 ### Foi usado:
-- ```background-image; ```
-- ```animation```
+- ```background-image;```
+- ```animation;```
 
 ##  Dia 15 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2015)
 ### Foi usado:
-- ```box-shadown; ```
-- ```animation```
+- ```box-shadown;```
+- ```animation;```
 
 ##  Dia 16 ✔️
 - [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2016)
 ### Foi usado:
-- ```display:flex; ```
-- ```transition```
+- ```display:flex;```
+- ```transition;```
+
+##  Dia 17 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2017)
+### Foi usado:
+- ```animation;```
+- ```perspective;```
