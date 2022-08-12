@@ -114,3 +114,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```animation;```
 - ```perspective;```
+
+##  Dia 18 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2018)
+### Foi usado:
+- ```transition;```
+- ```hover;```
