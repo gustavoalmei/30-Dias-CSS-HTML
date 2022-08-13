@@ -120,3 +120,10 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```transition;```
 - ```hover;```
+
+##  Dia 19 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2019)
+### Foi usado:
+- ```transform;```
+- ```overflow;```
+- ```nth-child();```

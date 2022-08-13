@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #313131;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.brilho {
+  min-width: 50%;
+  height: 50%;
+  margin: -200px;
+
+  border-radius: 50%;
+  animation: cor 10s linear infinite;
+  position: relative;
+}
+
+@keyframes cor {
+  0% {
+    filter: hue-rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.brilho span {
+  position: absolute;
+  top: calc(80px * var(--i));
+  left: calc(80px * var(--i));
+  right: calc(80px * var(--i));
+  bottom: calc(80px * var(--i));
+}
+
+.brilho:nth-child(even) {
+  transform-origin: left;
+}
+
+.brilho span::before {
+  content: "";
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 50%;
+  left: -10px;
+}
+
+.brilho span:nth-child(3n + 1):before {
+  background-color: red;
+  box-shadow: 0 0 10px red, 
+  0 0 20px red, 
+  0 0 40px red, 
+  0 0 60px red,
+  0 0 80px red;
+}
+
+.brilho span:nth-child(3n + 2):before {
+  background-color: blue;
+  box-shadow: 0 0 10px blue, 
+  0 0 20px blue, 
+  0 0 40px blue, 
+  0 0 60px blue,
+  0 0 80px blue;
+}
+
+.brilho span:nth-child(3n + 3):before {
+  background-color: yellow;
+  box-shadow: 0 0 10px yellow, 
+  0 0 20px yellow, 
+  0 0 40px yellow, 
+  0 0 60px yellow,
+  0 0 80px yellow;
+}
+
+.brilho span:nth-child(3n + 1) {
+  animation: rotateN 10s alternate infinite;
+}
+
+.brilho span:nth-child(3n + 2) {
+  animation: rotateN 3s alternate infinite;
+}
+
+.brilho span:nth-child(3n + 3) {
+  animation: rotateN 5s alternate infinite;
+}
+
+@keyframes rotateN {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
