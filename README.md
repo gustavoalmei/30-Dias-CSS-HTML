@@ -127,3 +127,10 @@ Só dar uma olhadinha aí :smile:.
 - ```transform;```
 - ```overflow;```
 - ```nth-child();```
+
+##  Dia 20 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2020)
+### Foi usado:
+- ```transform;```
+- ```overflow;```
+- ```::after;```
