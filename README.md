@@ -140,3 +140,12 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```animation;```
 - ```nth-child();```
+
+##  Dia 21 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2021)
+### Foi usado:
+- ```animation;```
+- ```nth-child();```
+- ```hover;```
+- ```transition;```
+- ```box-shadown;```
