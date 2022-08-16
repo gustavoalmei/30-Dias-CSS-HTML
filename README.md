@@ -141,8 +141,8 @@ Só dar uma olhadinha aí :smile:.
 - ```animation;```
 - ```nth-child();```
 
-##  Dia 21 ✔️
-- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2021)
+##  Dia 22 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2022)
 ### Foi usado:
 - ```animation;```
 - ```nth-child();```
