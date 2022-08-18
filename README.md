@@ -155,3 +155,9 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```animation;```
 - ```transform;```
+
+##  Dia 24 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2024)
+### Foi usado:
+- ```animation;```
+- ```transform;```
