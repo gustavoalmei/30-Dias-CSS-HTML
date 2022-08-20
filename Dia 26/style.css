@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #313131;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon__loader{
+  width: 15rem;
+  height: 5.5rem;
+
+  border-bottom: 5px solid #fff;
+
+  position: relative;
+  animation: rotate 1s linear alternate infinite;
+}
+
+.icon__loader::after{
+  content: "";
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  margin-bottom: 5px;
+  clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  animation: moveBall 1s linear alternate infinite;
+}
+
+@keyframes moveBall {
+  0%{left: 0; transform: rotate(0deg);}
+  100%{left: 80%; transform: rotate(360deg);}
+}
+
+@keyframes rotate {
+  0%{transform: rotate(20deg);}
+  100%{transform: rotate(-20deg);}
+}
