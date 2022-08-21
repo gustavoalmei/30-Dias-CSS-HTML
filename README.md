@@ -172,3 +172,11 @@ Só dar uma olhadinha aí :smile:.
 ### Foi usado:
 - ```animation;```
 - ```transform;```
+
+##  Dia 27 ✔️
+- [Codigo](https://github.com/gustavoalmei/30-Dias-CSS-HTML/tree/main/Dia%2027)
+### Foi usado:
+- ```animation;```
+- ```box-shadown;```
+- ```::after;```
+- ```::before;```
